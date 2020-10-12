@@ -14,7 +14,7 @@ void main() {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
-                "Pessoas: 0",
+                "Pessoas: 10",
                 style:
                     TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
               ),
